@@ -115,6 +115,3 @@ Works in all modern browsers that support:
 - CSS Animations
 - CSS Flexbox
 - React 16.8+
-
-## License
-MIT License - Feel free to use in your projects 
