@@ -16,7 +16,7 @@ const FlashbangButton = () => {
       // Show popup after first click
       if (!isFirstClick) {
         setShowPopup(true);
-        setTimeout(() => setShowPopup(false), 2000); // Hide popup after 2 seconds
+        setTimeout(() => setShowPopup(false), 4000); // Hide popup after 4 seconds
       }
       setIsFirstClick(false);
     }, 3500);
